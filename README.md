@@ -1,4 +1,5 @@
 # GmailAI
+![GmailAILogo](https://raw.githubusercontent.com/tempgit6969/GmailAILogo/main/WhatsApp%20Image%202025-04-20%20at%2018.08.10_67815e29.jpg)
 ---
 
 # 📩 GmailAI Auto-Responder
