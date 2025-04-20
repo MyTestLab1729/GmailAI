@@ -1,7 +1,4 @@
 # GmailAI
-
-Of course! Here's a **README.md** you can use for your project:
-
 ---
 
 # 📩 GmailAI Auto-Responder
